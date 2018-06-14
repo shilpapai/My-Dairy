@@ -6,7 +6,7 @@
 	<groupId>com.example</groupId>
 	<artifactId>mydairy</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-
+ls
 	<packaging>pom</packaging>
 
 	<name>demo</name>
